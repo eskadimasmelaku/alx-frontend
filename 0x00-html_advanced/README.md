@@ -18,5 +18,5 @@ This project is a website for **Techium**, a fictional technology company. The g
 ## Installation
 1. Clone the repository to your local machine:
   
-   git clone https://github.com/your-username/alx-frontend.git
+   git clone https://github.com/eskadimasmelaku/alx-frontend.git
 
